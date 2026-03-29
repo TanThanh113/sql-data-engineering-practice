@@ -1,4 +1,4 @@
--- Problem: Monthly Active Users
+-- Problem: Signup Activation Rate
 
 -- Description:
 -- Calculate the activation rate for activated emails.
