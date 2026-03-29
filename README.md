@@ -4,6 +4,7 @@ This repository documents my journey of learning SQL for Data Engineering.
 
 ## 📌 Overview
 - Practice SQL via StrataScratch
+- Practice SQL via Data Lemur
 - Focus on real-world data problems
 
 ## 🧠 Skills
