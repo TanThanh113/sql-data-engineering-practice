@@ -1,0 +1,30 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Jupyter Notebook cụ thể (Rất quan trọng cho bạn)
+.ipynb_checkpoints/
+.virtual_documents/
+
+# Data & Large files (Đừng đẩy dữ liệu nặng lên Git)
+data/
+*.csv
+*.xlsx
+*.parquet
+
+# Secrets & Environment variables (Bảo mật)
+.env
+
+# IDE specific (Tùy bạn dùng gì)
+.vscode/
+.idea/
+.DS_Store
